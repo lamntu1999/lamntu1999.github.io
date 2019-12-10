@@ -10,8 +10,8 @@ body{
 #header .logo{
     max-width: 29%;
     height: auto;
-    border: 3px solid #f39501;
-    border-radius: 45%;
+    border: 3px solid #cecece;
+    border-radius: 50%;
     overflow: hidden;
     margin: 21px;
 }
